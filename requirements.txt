@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+transformers
+numpy>=1.24.3
+TTS==0.21.1
+IPython
